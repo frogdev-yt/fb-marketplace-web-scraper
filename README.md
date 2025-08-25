@@ -9,5 +9,6 @@ Will allow changing of search length, scroll speed, search repeat cooldown, with
 
 
 TO USE:
+
 First, run the initialize file to log into your facebook account, generate required web driver user data and set email for notifications when listings are found.
 Then just run the project file and leave it running, it will continue to cycle through chosen search terms until reaching the end of all provided, then will wait for a fixed cooldown period and repeat
