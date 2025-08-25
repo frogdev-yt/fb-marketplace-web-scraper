@@ -6,7 +6,8 @@ Currently programmed to have future support for custom search options and prereq
 Next version (if updated) will feature:
 - UI to add specific general purpose search options with price prereqs
 - toggling of email notifications
-- Changing of search length, scroll speed, search repeat cooldown, with default values to match current values if user does not wish to mess with these  
+- Changing of search length, scroll speed, search repeat cooldown, with default values to match current values if user does not wish to mess with these
+- No necessity for running initialize file separately
 
 
 
